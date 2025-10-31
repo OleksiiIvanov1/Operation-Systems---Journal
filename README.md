@@ -1,4 +1,4 @@
-# Operation-Systems---Journal
+# Operation-Systems- Technical Journal
 Techical Journal that documenting my work across all 7 weeks.
 
 Each week documents my learning progress, tasks completed, and reflections.
