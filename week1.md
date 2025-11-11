@@ -10,7 +10,7 @@ Ubuntu Server provides a stable, secure, and well-documented environment ideal f
 
 | Distribution | Advantages | Disadvantages | Suitability |
 |---------------|-------------|----------------|--------------|
-| **Ubuntu Server 22.04 LTS** | Excellent community support, 5-year security updates, modern package management (APT), easy SSH/firewall setup | Slightly higher resource usage than minimal distros | ✅ Best balance for learning and performance |
+| **Ubuntu Server 22.04 LTS** | Excellent community support, 5-year security updates, modern package management (APT), easy SSH/firewall setup | Slightly higher resource usage than minimal distros | Best balance for learning and performance |
 | **Debian 12** | Highly stable, minimal resource usage | Older software versions, slower update cycle | Good for production environments |
 | **CentOS Stream 9** | Enterprise-grade, SELinux included | Complex setup, different package manager (dnf) | Best for Red Hat ecosystems |
 | **Alpine Linux** | Extremely lightweight | Minimal default packages, steep learning curve | Ideal for containers, not general-purpose use |
